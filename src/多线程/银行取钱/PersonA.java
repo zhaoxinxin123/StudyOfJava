@@ -1,4 +1,4 @@
-package 银行取钱;
+package 多线程.银行取钱;
 
 public class PersonA extends Thread {
     //创建 银行对象

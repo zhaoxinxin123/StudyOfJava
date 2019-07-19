@@ -1,4 +1,4 @@
-package question;
+package 多线程.question;
 
 public class Question extends Thread{
     static int tick= 20;

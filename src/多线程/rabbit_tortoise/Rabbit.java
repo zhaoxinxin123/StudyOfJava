@@ -1,4 +1,4 @@
-package rabbit_tortoise;
+package 多线程.rabbit_tortoise;
 
 public class Rabbit extends Animal {
     public Rabbit() {

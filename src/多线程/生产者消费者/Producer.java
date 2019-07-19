@@ -1,4 +1,4 @@
-package 生产者消费者;
+package 多线程.生产者消费者;
 
 public class Producer implements Runnable {
     private PubBox pubBox;

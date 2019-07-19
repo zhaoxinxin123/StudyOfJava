@@ -1,4 +1,4 @@
-package 银行取钱;
+package 多线程.银行取钱;
 
 public class Bank {
     static int money=1000;

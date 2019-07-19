@@ -1,4 +1,4 @@
-package rabbit_tortoise;
+package 多线程.rabbit_tortoise;
 
 public class LetOneStop implements Animal.Calltoback {
     //动物对象

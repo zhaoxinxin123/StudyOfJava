@@ -1,4 +1,4 @@
-package rabbit_tortoise;
+package 多线程.rabbit_tortoise;
 
 public abstract class Animal extends Thread {
     public double length=20;//比赛长度

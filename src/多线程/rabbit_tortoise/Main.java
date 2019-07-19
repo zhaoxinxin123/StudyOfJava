@@ -1,4 +1,4 @@
-package rabbit_tortoise;
+package 多线程.rabbit_tortoise;
 
 public class Main {
     public static void main(String[] args) {

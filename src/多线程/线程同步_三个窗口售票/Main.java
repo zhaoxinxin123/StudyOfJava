@@ -1,4 +1,4 @@
-package 线程同步_三个窗口售票;
+package 多线程.线程同步_三个窗口售票;
 
 public class Main {
     /**
